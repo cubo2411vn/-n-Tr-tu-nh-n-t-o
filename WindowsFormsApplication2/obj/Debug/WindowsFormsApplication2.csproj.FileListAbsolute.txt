@@ -1,0 +1,9 @@
+C:\Users\ADMIN\Desktop\Nhóm-15\Source_code\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\ADMIN\Desktop\Nhóm-15\Source_code\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\ADMIN\Desktop\Nhóm-15\Source_code\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\ADMIN\Desktop\Nhóm-15\Source_code\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Nhóm-15\Source_code\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.p.resources
+C:\Users\ADMIN\Desktop\Nhóm-15\Source_code\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Nhóm-15\Source_code\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\Nhóm-15\Source_code\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\ADMIN\Desktop\Nhóm-15\Source_code\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
